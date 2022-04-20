@@ -1,0 +1,55 @@
+{
+    "product_file": "products_1.json",
+    "price_file": "price_1.json",
+    "products_separated_price": 4065.93,
+    "products_in_group_price": 4082.670000000001,
+    "best_result": {
+        "price": 3980.52,
+        "order": {
+            "products": [
+                {
+                    "id": "VM-134-0511-1"
+                }
+            ],
+            "productGroups": [
+                {
+                    "id": 2,
+                    "orders": [
+                        {
+                            "id": "VM-823-0511-1"
+                        },
+                        {
+                            "id": "VM-774-0511-2"
+                        },
+                        {
+                            "id": "VM-444-0511-1"
+                        },
+                        {
+                            "id": "VM-702-0511-5"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "orders": [
+                        {
+                            "id": "VM-751-0511-14"
+                        },
+                        {
+                            "id": "VM-121-1-0511-1"
+                        },
+                        {
+                            "id": "VM-330-20-0511-1"
+                        },
+                        {
+                            "id": "VM-659-0511-12"
+                        },
+                        {
+                            "id": "VM-743-0511-2"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

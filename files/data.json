@@ -1,0 +1,145 @@
+{
+    "products": [
+        {
+            "id": "VM-K-92",
+            "weight": 212.1,
+            "volume": 1.37
+        },
+        {
+            "id": "VM-121-1",
+            "weight": 225.2,
+            "volume": 0.72
+        },
+        {
+            "id": "VM-643",
+            "weight": 116.5,
+            "volume": 0.28
+        },
+        {
+            "id": "VM-684",
+            "weight": 357.5,
+            "volume": 1.5
+        },
+        {
+            "id": "VM-248",
+            "weight": 99.4,
+            "volume": 0.5
+        }
+    ],
+    "prices": [
+        {
+            "from": 0,
+            "to": 100,
+            "price": 520.0,
+            "type": 2
+        },
+        {
+            "from": 100,
+            "to": 110,
+            "price": 4.7,
+            "type": 1
+        },
+        {
+            "from": 110,
+            "to": 120,
+            "price": 4.6,
+            "type": 1
+        },
+        {
+            "from": 120,
+            "to": 130,
+            "price": 4.5,
+            "type": 1
+        },
+        {
+            "from": 130,
+            "to": 140,
+            "price": 4.4,
+            "type": 1
+        },
+        {
+            "from": 140,
+            "to": 150,
+            "price": 4.3,
+            "type": 1
+        },
+        {
+            "from": 150,
+            "to": 160,
+            "price": 4.25,
+            "type": 1
+        },
+        {
+            "from": 160,
+            "to": 170,
+            "price": 4.2,
+            "type": 1
+        },
+        {
+            "from": 170,
+            "to": 180,
+            "price": 4.15,
+            "type": 1
+        },
+        {
+            "from": 180,
+            "to": 190,
+            "price": 4.1,
+            "type": 1
+        },
+        {
+            "from": 190,
+            "to": 200,
+            "price": 4.05,
+            "type": 1
+        },
+        {
+            "from": 200,
+            "to": 250,
+            "price": 4,
+            "type": 1
+        },
+        {
+            "from": 250,
+            "to": 300,
+            "price": 3.9,
+            "type": 1
+        },
+        {
+            "from": 300,
+            "to": 350,
+            "price": 3.8,
+            "type": 1
+        },
+        {
+            "from": 350,
+            "to": 400,
+            "price": 3.7,
+            "type": 1
+        },
+        {
+            "from": 400,
+            "to": 600,
+            "price": 3.6,
+            "type": 1
+        },
+        {
+            "from": 600,
+            "to": 800,
+            "price": 3.5,
+            "type": 1
+        },
+        {
+            "from": 800,
+            "to": 1000,
+            "price": 3.4,
+            "type": 1
+        },
+        {
+            "from": 1000,
+            "to": 99999999,
+            "price": 3.3,
+            "type": 1
+        }
+    ]
+}
